@@ -23,16 +23,16 @@ You may change options listed below for different outputs.
 We provide some examplary outputs.
 
 ### 1. n=12, all palette
-![Figure.1](./all_palettes_12_colors.png)
+![Figure.1](./examples/all_palettes_12_colors.png)
 
 ### 2. n=12, all palette, grayscale
-![Figure.2](./all_palettes_12_colors_grayscale.png)
+![Figure.2](./examples/all_palettes_12_colors_grayscale.png)
 
 ### 3. n=6, \['Greys', 'Reds', 'Blues', 'Greens'\]
-![Figure.3](./four_palettes_6_colors.png)
+![Figure.3](./examples/four_palettes_6_colors.png)
 
 ### 4. n=6, all palette, show_text
-![Figure.4](./all_palettes_12_colors_text.png)
+![Figure.4](./examples/all_palettes_12_colors_text.png)
 
 
 ## Contributing
