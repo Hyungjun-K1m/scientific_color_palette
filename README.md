@@ -22,14 +22,18 @@ You may change options listed below for different outputs.
 ## Output examples
 We provide some examplary outputs.
 
-### n=12, all palette
+### 1. n=12, all palette
 ![Figure.1](./all_palettes_12_colors.png)
 
-### n=12, all palette, grayscale
+### 2. n=12, all palette, grayscale
 ![Figure.2](./all_palettes_12_colors_grayscale.png)
 
-### n=6, \['Greys', 'Reds', 'Blues', 'Greens'\]
+### 3. n=6, \['Greys', 'Reds', 'Blues', 'Greens'\]
 ![Figure.3](./four_palettes_6_colors.png)
 
-### n=6, \[\'Greys\', \'Reds\', \'Blues\', \'Greens\'\]
-![Figure.4](./four_palettes_6_colors_text.png)
+### 4. n=6, all palette, show_text
+![Figure.4](./all_palettes_12_colors_text.png)
+
+
+## Contributing
+Please feel free to leave issues or to leave Pull Requests!
